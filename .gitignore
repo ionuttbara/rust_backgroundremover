@@ -1,0 +1,8 @@
+# directories
+
+/target/
+
+# Files from root directory
+/birefnetv2-img.onnx
+/rustbackremover_integrated.exe
+/rustbackremover_notintegrated.exe
